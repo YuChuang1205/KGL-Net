@@ -108,7 +108,8 @@ Each cross-spectral scene is from top to bottom: correctly judged as matching, c
 
 ## Citation
 
-Please cite our paper in your publications if our work helps your research. <br>
+If you find this repo helpful, please give us a 🤩**star**🤩. Please consider citing the **KGL-Net** if it benefits your project. <br>  
+
 BibTeX reference is as follows:
 ```
 @misc{yu2024howknowledgeguidedlearningcrossspectral,
