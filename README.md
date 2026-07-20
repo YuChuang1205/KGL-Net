@@ -1,4 +1,4 @@
-## The official complete code for paper "Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching" [[Paper/arXiv](https://arxiv.org/abs/2412.11161)] [Accepted by TIP2026]   
+## The official complete code for paper "Why and How: Knowledge-Guided Learning for Cross-Spectral Image Patch Matching" [Accepted by TIP2026] [[Paper/arXiv](https://arxiv.org/abs/2412.11161)]      
 
 <div align="center">
 Recently, <b> cross-spectral image patch matching based on feature relation learning </b> has attracted extensive attention. However, <b>performance bottleneck problems</b> have gradually emerged in existing methods. To address this challenge, we make <b>the first attempt to explore a stable and efficient bridge</b> between descriptor learning and metric learning, and construct a <b>knowledge-guided learning network (KGL-Net)</b>, which achieves <b>amazing performance improvements while abandoning complex network structures</b>.
